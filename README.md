@@ -18,3 +18,13 @@ conda activate my_env
 touch requirements.txt
 pip install -r requirements.txt
 ```
+
+* open jupyer-notebook and create new a notebook 
+* follow the belove steps:
+    * import libraries
+    * get the dataset
+    * EDA
+    * feature engineering
+    * train the model
+    * model evaluation
+    * save the model
