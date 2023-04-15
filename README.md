@@ -19,7 +19,7 @@ touch requirements.txt
 pip install -r requirements.txt
 ```
 
-* open jupyer-notebook and create new a notebook 
+* open jupyer-notebook and create a new notebook 
 * follow the belove steps:
     * import libraries
     * get the dataset
@@ -28,3 +28,7 @@ pip install -r requirements.txt
     * train the model
     * model evaluation
     * save the model
+
+* creating web app
+    * create app.py
+    * create templates folder along home.html
